@@ -4,3 +4,4 @@
 /project/
 /.metals/
 /.scalafmt.conf
+.DS_Store
