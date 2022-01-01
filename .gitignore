@@ -3,3 +3,4 @@
 /.bloop/
 /project/
 /.metals/
+/.scalafmt.conf
